@@ -61,8 +61,8 @@ public class NewHero extends javax.swing.JPanel {
                                         .addGroup(layout.createSequentialGroup()
                                                 .addGap(80, 80, 80)
                                                 .addComponent(jButton1)))
-                                        .addContainerGap(30, Short.MAX_VALUE))
-        )));
+                                        .addContainerGap(30, Short.MAX_VALUE))))
+        );
         layout.setVerticalGroup(
                 layout.createParallelGroup(GroupLayout.Alignment.LEADING)
                         .addGroup(GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
